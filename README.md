@@ -5,7 +5,7 @@ I ensure these things by developing tests that achieve at least 80% coverage of 
 
 How do I interpret user needs and incorporate them into a program?
 --
-
+User needs can be concentrated into short-form user stories, translated into high-level big picture ideas as epics, or given personality through detailed personas. Ideally, all of these methods should be used for creating a rich, detailed basis off which to develop a program for. Assuming that I've gathered user requirements successfully, I would then interpret user needs by distilling my notes into the crucial elements for design and development. From there, I would create user personas based off emerging themes in the requirements and attribute user stories to each that sum them up. These ideas, synthesized from the requirements, would be repeatedly referenced through design to ensure accurate, focused development.
 
 How do I approach designing software?
 --
