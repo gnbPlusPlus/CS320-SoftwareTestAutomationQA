@@ -1,4 +1,8 @@
 # CS320-SoftwareTestAutomationQA
+
+<img src="/junit1.png">
+<img src="/junit2.png">
+
 How can I ensure that my code, program, or software is functional and secure?
 --
 I ensure these things by developing tests that achieve at least 80% coverage of each file when run. Most functions will have multiple branches that can be tested for given different inputs (whether from the user or system). For example, variables in the Contact class have limits on length, which spawns at least three related tests to check whether an inputted length is too long, exactly at the maximum length, or shorter than the maximum length. Successful testing helps prove that input validation is working as intended--a key part of security--and that functions are working as they should.
